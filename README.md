@@ -5,7 +5,7 @@
 
 ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroluissz123&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluissz123)](https://github.com/pedroluissz123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## The technologies that I study and use in my daily life
 
